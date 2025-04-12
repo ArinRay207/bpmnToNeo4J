@@ -3,13 +3,13 @@
 The tool provides a front end environment to draw or upload a bpmn diagram and converts it into a Labelled Property Graph stored in Neo4J database. The Graph can then be visualized in Neo4J Desktop. 
 
 ## Installation Guide
-0. Prerequisites:
-   You need to have git, Node.js, npm and Neo4J installed.
-   Here are the links to their installation guides:
-   git: https://git-scm.com/downloads
-   Node.js: https://nodejs.org/en/download
-   npm: https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
-   Neo4J: https://neo4j.com/download/
+0. Prerequisites:\
+   You need to have git, Node.js, npm and Neo4J installed. \
+   Here are the links to their installation guides: \
+   git: https://git-scm.com/downloads \
+   Node.js: https://nodejs.org/en/download \
+   npm: https://docs.npmjs.com/downloading-and-installing-node-js-and-npm \
+   Neo4J: https://neo4j.com/download/ 
 
 2. Clone the repository:
    ```
